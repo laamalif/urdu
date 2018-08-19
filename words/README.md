@@ -1,0 +1,1 @@
+# Urdu words collection
